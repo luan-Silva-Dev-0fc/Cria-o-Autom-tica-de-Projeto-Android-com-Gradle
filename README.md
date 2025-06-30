@@ -216,17 +216,3 @@ Editar
 Conclusão
 Este boilerplate automatiza a criação de um projeto Android básico com as configurações necessárias para carregar uma página web com WebView, integrar Firebase para notificações push e solicitar permissões essenciais. Ele serve como uma base para você começar a desenvolver um aplicativo Android com essas funcionalidades.
 
-bash
-Copiar
-Editar
-
-Esse README serve como uma aula explicando cada parte do código que automatiza a criação do projeto, de forma que você possa entender e aplicar em seus próprios projetos Android.
-
-
-
-
-
-
-
-
-Perguntar ao ChatGPT
